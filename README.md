@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development very much
 - 🌱 I’m currently learning flutter which is an open source framework by Google for app development
 - 💞️ I’m looking to collaborate on app development
-- 💞️ I am the full-stact developer and mainly I've have mastery in MERN and MEAN Stact
+- 💞️ I am the full-stack developer and mainly I've have mastery in MERN and MEAN Stact
 * I've written what I can do and what I am interested in currently down below...
 
 ✨ Web | Full-Stack | JS (Node.js) | 10+ years ✨
@@ -40,7 +40,7 @@ Laravel is a web application framework with expressive, elegant syntax for PHP W
   
 
 - Bitcoin - Open source P2P money
-- Ethereum is the community-run technology powering the cryptocurrency ETH and thousands of dApps
+- Ethereum is the community-run technology powering the cryptocurrency ETH and thousands of DApps
 - Monero is the leading cryptocurrency focused on private and censorship-resistant transactions
 
 - 📫 How to reach me :
