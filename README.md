@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiccup0628
 - 👀 I’m interested in web and mobile app development very much.
-- 🌱 I’m currently learning flutter which is an open source framework by Google for app development
+- 🌱 I’m currently learning crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant        on any central authority
 - 💞️ I’m looking to collaborate on app development
 - 💞️ I am the full-stack developer and mainly I've have mastery in MERN and MEAN Stack
 * I've written what I can do and what I am interested in currently down below...
@@ -16,7 +16,7 @@ Node.js® is an open-source, cross-platform JavaScript runtime environment.
 🥇 React + ⚡ Next.js
 - A JavaScript library for building user interfaces
 - The React Framework for Production
-- 
+
 💖 Angular + 🌟 Flutter SDK
 - Angular is a platform for building mobile and desktop web applications
 - Flutter SDK is open-source UI software development kit created by Google being used to develop cross-platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase.
